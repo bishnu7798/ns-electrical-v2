@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "295677870614",
+    "project_id": "ns-electrical-71572",
+    "storage_bucket": "ns-electrical-71572.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295677870614:android:12feec1114d2b54c10ab37",
+        "android_client_info": {
+          "package_name": "com.example.nselectrical"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfK96NcyCdd7U-okXwkPEw0cT3vg8jReY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
