@@ -1,0 +1,41 @@
+{
+  "dtrCode": "DTR001",
+  "dtrName": "Main Street DTR",
+  "createdAt": "2023-05-15T10:30:00Z",
+  "createdBy": "user@example.com",
+  "meta": {
+    "capacity": "100kVA",
+    "village": "Green Valley",
+    "location": "Main Street",
+    "landMarks": "Near School",
+    "ccc": "CCC001",
+    "feeder": "Feeder A",
+    "substation": "Substation 1",
+    "drgNo": "DRG001",
+    "docDate": "2023-05-01",
+    "jmcNo": "JMC001",
+    "gp": "GP001",
+    "censusCode": "CENSUS001",
+    "block": "Block A",
+    "division": "Division 1",
+    "user": "john.doe@example.com"
+  },
+  "poles": [
+    {
+      "poleNo": "P001",
+      "poleType": "Concrete",
+      "routeLength": 100.5,
+      "newPccPoleCount": 1,
+      "quantity": 1,
+      "remarks": "New installation"
+    },
+    {
+      "poleNo": "P002",
+      "poleType": "Steel",
+      "routeLength": 150.0,
+      "newPccPoleCount": 2,
+      "quantity": 1,
+      "remarks": "Replacement"
+    }
+  ]
+}

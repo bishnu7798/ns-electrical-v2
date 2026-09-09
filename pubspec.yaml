@@ -1,0 +1,55 @@
+name: nselectrical
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  provider: ^6.0.0
+  google_fonts: ^6.1.0
+  fl_chart: ^0.68.0
+  floor: ^1.4.0
+  shared_preferences: ^2.0.15
+  speech_to_text: ^7.3.0
+  share_plus: ^7.0.0
+  just_audio: ^0.9.0
+  audio_session: ^0.1.0
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.20.2
+  csv: ^6.0.0
+  http: ^1.1.0
+  permission_handler: ^11.0.0
+  geolocator: ^13.0.1
+  geocoding: ^4.0.0
+  firebase_core: ^3.9.0
+  firebase_auth: ^5.3.1
+  cloud_firestore: ^5.6.12
+  connectivity_plus: ^5.0.0
+  path_provider: ^2.0.0
+  path: ^1.8.0
+  uuid: ^4.5.2
+  animate_do: ^3.3.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/NSLOGO3.png"
+  adaptive_icon_background: "#FFFFFF"
+ # adaptive_icon_background: "#87CEEB"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
